@@ -43,7 +43,7 @@ Fake-News-Classifier-using-LSTM`
        * `>>> nltk.download()`}
     
 3. You're good to go now-  
-`> Fake News Classifier.ipynb`
+`> FakeNewsClassifierUsingLSTM.ipynb`
 
 ## Model Used and accuracy 
    * Model Used--`Deep learning LSTM model`
